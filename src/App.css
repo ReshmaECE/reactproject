@@ -1,0 +1,84 @@
+
+#save{
+   padding: 30px; 
+   width:203vh; 
+   /* margin: 0px; */
+  background-color:#52D3D8;
+  color: white;
+  font-size: 30px;
+
+}
+
+#enter{
+  padding: 30px; 
+  position: relative;
+  font-size: 20px;
+  left: 250px;
+}
+.schema{
+  padding: 10px;
+  width: 100vh;
+  font-size: 20px;
+  margin: 20px;
+   
+}
+#sch{
+  padding: 20px;
+  width: 100vh;
+ }
+
+
+#box{
+ /* position: absolute; */
+  top: 80px;
+  width: 100vh;
+  /* right: 1000px; */
+  font-size: 18px;
+  padding: 15px;
+text-align: center; 
+
+ 
+
+}
+
+.opt{
+ /* position: absolute; */
+ left: 20px;
+  width: 100vh;
+  padding: 20px;
+   
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .btn1{
+
+  width: 100vh;
+  padding: 20px;
+  font-size: 15px;
+  color: rgb(42, 216, 42) ;
+  background-color: white;
+  border: white;
+  text-decoration: underline;
+}
+ 
+
+ .btn2{
+  background-color: rgb(42, 216, 42);
+  padding: 10px;
+  color: white;
+  border: white;
+ }
